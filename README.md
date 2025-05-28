@@ -19,3 +19,8 @@ GPU: NVIDIA GeForce RTX 4060 Laptop GPU
 ├── 1. Data Preparation.ipynb
 └── 2. Train.ipynb
 ```
+# Reference
+```
+https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/discussion/459604
+https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/discussion/460274
+https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/discussion/459596
